@@ -1,0 +1,13 @@
+/Web-Library-D3-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+*.swp
+*.un~
+/cover_db
+/nytprof*
+perltidy.LOG
+.DS_Store
