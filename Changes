@@ -1,6 +1,8 @@
 Revision history for Perl extension Web-Library-D3
 
 {{$NEXT}}
+
+0.02  2013-12-14 17:24:39 CET
     [New Features]
         - Added D3.js 3.3.12
 
