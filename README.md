@@ -11,17 +11,18 @@ Web::Library::D3 - Distribution wrapper around D3
 
 This is a distribution wrapper around D3.js. It enables you to
 include the client-side library in multiple Web application projects with very
-little effort. See [Web::Library](http://search.cpan.org/perldoc?Web::Library) for the general concept and how to use it
-with [Catalyst](http://search.cpan.org/perldoc?Catalyst).
+little effort. See [Web::Library](https://metacpan.org/pod/Web::Library) for the general concept and how to use it
+with [Catalyst](https://metacpan.org/pod/Catalyst).
 
 # LIBRARY VERSIONS
 
 The following versions are available. For each version all included files are
 listed. Files marked with an asterisk are included in that versions' asset
-list - see [Web::Library](http://search.cpan.org/perldoc?Web::Library)'s `css_link_tags_for()` and `script_tags_for()`
+list - see [Web::Library](https://metacpan.org/pod/Web::Library)'s `css_link_tags_for()` and `script_tags_for()`
 methods for an explanation of the concept.
 
-- Version 3.3.3 (the default)
+- Version 3.3.3
+=item Version 3.3.12 (the default)
 
         * js/d3.min.js
 
